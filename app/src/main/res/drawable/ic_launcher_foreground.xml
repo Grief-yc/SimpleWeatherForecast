@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,28A14,14 0,1 1,54 56A14,14 0,1 1,54 28z" />
+
+    <!-- Sun rays -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,12L52,20L56,20z M35,18L40,26L44,22z M73,18L68,22L72,26z M20,34L28,34L28,38L20,38z M88,34L80,34L80,38L88,38z M35,68L40,60L44,64z M73,68L68,64L72,60z" />
+
+    <!-- Cloud -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,78A12,12 0,0 1,38 54L38.5,54A14,14 0,0 1,66 55L66.5,55A10,10 0,0 1,66.5 78z" />
+
+    <!-- Cloud shadow -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M42,72A7,7 0,0 1,42 58L42.3,58A8,8 0,0 1,56 59L56.2,59A6,6 0,0 1,56.2 72z" />
+</vector>
